@@ -1,6 +1,6 @@
 ### Well hello there!
 
-Testing push request
+Testing pull requests!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
